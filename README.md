@@ -73,15 +73,16 @@ Yaritxa Duarte | 2220241061 | Back-end developer | yaritxa.duarte@estudiantesuni
 
 ## Flujo de trabajo Git
 ## Flujo de trabajo Git
-existe
+## Flujo de trabajo Git
 
-El proyecto usa una estructura de ramas basada en Git Flow con la rama principal develop como base de integración.
+Durante el desarrollo se utilizó una estrategia basada en Git Flow.
 
-Se trabajó con ramas feature/* para el desarrollo de funcionalidades individuales.
+- La rama develop se utilizó para integrar los cambios principales del proyecto.
+- Las ramas feature/ se utilizaron para desarrollar nuevas funcionalidades y mejoras.
+- La rama release/v1.0.0 se utilizó para preparar la versión final antes de integrarla en main.
+- La rama hotfix/readme-typo se utilizó para corregir errores específicos del README.
+- Finalmente, se preparó el tag v1.0.0 para identificar la primera versión estable del proyecto.
 
-Se creó la rama release/v1.0.0 para preparar la versión estable del proyecto antes de pasar a main.
-
-Se utilizó la rama hotfix/readme-typo para corregir errores menores en la documentación.
 ## Evidencias
 existe
 
