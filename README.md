@@ -9,7 +9,7 @@ Aplicación web en Django para gestión de gimnasio, venta de planes, administra
 ### Requisitos
 - Python 3.11  
 - Virtualenv (recomendado)  
-
+--FF
 ### Pasos sugeridos
 
 1. Clona el repositorio o copia el proyecto a tu máquina.  
