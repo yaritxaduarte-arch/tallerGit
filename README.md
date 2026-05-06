@@ -74,3 +74,5 @@ Yaritxa Duarte | 2220241061 | Back-end developer | yaritxa.duarte@estudiantesuni
 ## Flujo de trabajo Git
 
 ## Evidencias
+[Vista del frontend](docs/foto1.jpeg)
+![FOTO DEL LA VISTA DEL USUARIO](docs/foto2.jpeg)
