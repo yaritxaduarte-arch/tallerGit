@@ -68,7 +68,7 @@ http://127.0.0.1:8000/
 
 Nombre | Código | Rol | Correo  
 --- | --- | --- | ---  
-Ana María Tique | 2220241069 | Front-end developer | ana.tique1@estudiantesunibague.edu.co  
+Ana Maria Tique | 2220241069 | Front-end developer | ana.tique1@estudiantesunibague.edu.co  
 Yaritxa Duarte | 2220241061 | Back-end developer | yaritxa.duarte@estudiantesunibague.edu.co  
 
 
