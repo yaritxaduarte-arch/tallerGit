@@ -1,5 +1,4 @@
 # Nombre del Proyecto
-<<<<<<< release/v1.0.0
 Página Gimnasio  
 
 ## Descripción
@@ -10,7 +9,7 @@ Aplicación web en Django para gestión de gimnasio, venta de planes, administra
 ### Requisitos
 - Python 3.11  
 - Virtualenv (recomendado)  
-
+- base de datos
 ### Pasos sugeridos
 
 1. Clona el repositorio o copia el proyecto a tu máquina.  
@@ -93,11 +92,3 @@ Se presentan evidencias del uso de ramas develop, feature/*, release y hotfix.
 Se adjuntan capturas, commits y referencias del funcionamiento del sistema.
 [Vista del frontend](docs/foto1.jpeg)
 ![FOTO DEL LA VISTA DEL USUARIO](docs/foto2.jpeg)
-=======
-## Descripción
-## Instalación
-## Uso
-## Autores
-## Flujo de trabajo Git
-## Evidencias
->>>>>>> main
