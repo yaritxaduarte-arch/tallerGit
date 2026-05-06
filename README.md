@@ -72,7 +72,23 @@ Ana María Tique | 2220241069 | Front-end developer | ana.tique1@estudiantesunib
 Yaritxa Duarte | 2220241061 | Back-end developer | yaritxa.duarte@estudiantesunibague.edu.co  
 
 ## Flujo de trabajo Git
+## Flujo de trabajo Git
+existe
 
+El proyecto usa una estructura de ramas basada en Git Flow con la rama principal develop como base de integración.
+
+Se trabajó con ramas feature/* para el desarrollo de funcionalidades individuales.
+
+Se creó la rama release/v1.0.0 para preparar la versión estable del proyecto antes de pasar a main.
+
+Se utilizó la rama hotfix/readme-typo para corregir errores menores en la documentación.
 ## Evidencias
+existe
+
+Se incluye el tag v1.0.0 como versión final del proyecto.
+
+Se presentan evidencias del uso de ramas develop, feature/*, release y hotfix.
+
+Se adjuntan capturas, commits y referencias del funcionamiento del sistema.
 [Vista del frontend](docs/foto1.jpeg)
 ![FOTO DEL LA VISTA DEL USUARIO](docs/foto2.jpeg)
